@@ -26,15 +26,15 @@ global.owner = ['+212695290310'] //Owner number in aive msg
 global.premium = ['+212695290310'] //Owner Number info
 global.ownernomer = '+212695290310' //Owner Number <<<
 
-global.ownername = 'MOUAD EL' //Owner Name
+global.ownername = 'ᴍᴏᴜᴀᴅ ᴇʟ' //Owner Name
 global.botname = 'ᴏᴡᴇɴ ʙᴏᴛ' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = 'INSTAGRAM' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://instagram.com/mouuad__elk' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = 'OWEN BOT' //Bot Pacage Name
+global.packname = 'ᴏᴡᴇɴ ʙᴏᴛ' //Bot Pacage Name
 global.author = 'ᴍʏ ɪɴsᴛᴀɢʀᴀᴍ :  ᴍᴏᴜᴜᴀᴅ__ᴇʟᴋ' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
